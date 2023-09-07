@@ -80,7 +80,16 @@ function renderizarTarjetas(productos) {
 
     let botonAgregarAlCarrito = document.getElementById(producto.id)
     botonAgregarAlCarrito.addEventListener("click", (e) => agregarAlCarrito(productos, e))
+
   })
+}
+
+let verOcultarCarrito = document.getElementById("verCarrito")
+verOcultarCarrito.addEventListener("click",mostrarOcultar)
+
+function mostrarOcultar() {
+  document.getElementById("productos").classList.toggle("oculto") 
+  document.getElementById("carrito").classList.toggle("oculto")
 }
 
 function agregarAlCarrito(productos, e) {
@@ -121,6 +130,8 @@ function agregarAlCarrito(productos, e) {
 
   renderizarCarrito()
 }
+
+
 
 function renderizarCarrito() {
   let contenedor = document.getElementById("carrito")
