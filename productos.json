@@ -1,0 +1,138 @@
+[
+  {
+    "id": 1,
+    "nombre": "Fernet Branca",
+    "categoria": "bebidas",
+    "stock": 2,
+    "precio": 5800,
+    "rutaImagen": "fernet.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Tomate",
+    "categoria": "verduleria",
+    "stock": 7,
+    "precio": 2800,
+    "rutaImagen": "tomate.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Lechuga",
+    "categoria": "verduleria",
+    "stock": 4,
+    "precio": 1600,
+    "rutaImagen": "lechuga.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Cebolla",
+    "categoria": "verduleria",
+    "stock": 1,
+    "precio": 1500,
+    "rutaImagen": "cebolla.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "Coca-cola",
+    "categoria": "bebidas",
+    "stock": 3,
+    "precio": 800,
+    "rutaImagen": "coca.jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "Zanahoria",
+    "categoria": "verduleria",
+    "stock": 8,
+    "precio": 900,
+    "rutaImagen": "zanahoria.jpg"
+  },
+  {
+    "id": 7,
+    "nombre": "Pollo",
+    "categoria": "carnes",
+    "stock": 7,
+    "precio": 1950,
+    "rutaImagen": "pollo.jpg"
+  },
+  {
+    "id": 8,
+    "nombre": "Cerveza",
+    "categoria": "bebidas",
+    "stock": 7,
+    "precio": 650,
+    "rutaImagen": "cerveza.jpg"
+  },
+  {
+    "id": 9,
+    "nombre": "Vacio",
+    "categoria": "carnes",
+    "stock": 7,
+    "precio": 3100,
+    "rutaImagen": "vacio.jpg"
+  },
+  {
+    "id": 10,
+    "nombre": "Agua",
+    "categoria": "bebidas",
+    "stock": 7,
+    "precio": 500,
+    "rutaImagen": "agua.jpg"
+  },
+  {
+    "id": 11,
+    "nombre": "Asado",
+    "categoria": "carnes",
+    "stock": 7,
+    "precio": 2850,
+    "rutaImagen": "asado.jpg"
+  },
+  {
+    "id": 12,
+    "nombre": "Lactal",
+    "categoria": "panificado",
+    "stock": 7,
+    "precio": 800,
+    "rutaImagen": "lactal.jpg"
+  },
+  {
+    "id": 13,
+    "nombre": "Frances",
+    "categoria": "panificado",
+    "stock": 7,
+    "precio": 1100,
+    "rutaImagen": "frances.jpg"
+  },
+  {
+    "id": 14,
+    "nombre": "Shampoo",
+    "categoria": "higene",
+    "stock": 7,
+    "precio": 1300,
+    "rutaImagen": "shampoo.jpg"
+  },
+  {
+    "id": 15,
+    "nombre": "Enjuague",
+    "categoria": "higene",
+    "stock": 7,
+    "precio": 1280,
+    "rutaImagen": "enjuague.jpg"
+  },
+  {
+    "id": 16,
+    "nombre": "Trapo de piso",
+    "categoria": "limpieza",
+    "stock": 7,
+    "precio": 2850,
+    "rutaImagen": "trapo.jpg"
+  },
+  {
+    "id": 17,
+    "nombre": "Escoba",
+    "categoria": "limpieza",
+    "stock": 7,
+    "precio": 2850,
+    "rutaImagen": "escoba.jpg"
+  }
+]
